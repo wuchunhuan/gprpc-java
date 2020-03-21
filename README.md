@@ -1,4 +1,6 @@
 # gprpc-java
+[![LICENSE](https://img.shields.io/badge/License-Apache--2.0-blue)](./LICENSE)
+
 A fast and light wight rpc framework based on Google protobuf and netty.
 
 ## Overview
